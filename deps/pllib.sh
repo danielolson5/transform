@@ -1,1 +1,1 @@
-cpanm File::Stream Spreadsheet::ParseXLSX
+cpanm File::Stream
